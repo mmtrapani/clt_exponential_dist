@@ -1,4 +1,4 @@
-# clt_exponential_dist
+# Visualization of the Central Limit Theorem with the Exponential Distribution as the underlying population distribution
 This program will generate random samples of size n from the exponential distribution with mean mu. The computer will
 run 1,000 such samples. In each sample, the computer will calculate the sample mean. Next, it'll average the 1,000
 sample means and find the variance of the 1,000 sample means. Finally, the program will display the observed sample mean
